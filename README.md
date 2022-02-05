@@ -1,13 +1,13 @@
-A recipes file for the Odin Project
+ # Recipes
+ 
+ An assignment from The Odin Project Foundation course. The goal was to create a webpage with recipes containing images and any links if necessary.
 
---
-It is my 2nd attempt in coding a HTML page; for practice purposes.
+# Description --
 
---Description--
 I used the following site: https://www.simplyrecipes.com/ to find the following recipes.
 
 Quesadilla was the first. The HTML contains a title with a brief description of the recipe.
-It's ingredients are then listed (unordered list) followed by the steps (listed list) with their respective text and images.
+It's ingredients are then listed (in unordered list) followed by the steps (listed list) with their respective text and images.
   This file did have two links added in the one of the steps.
 
 I went for Tiramisu next. Same process as the previous file. A title with a brief description of the recipe.
